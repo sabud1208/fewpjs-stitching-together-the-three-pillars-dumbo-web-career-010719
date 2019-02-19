@@ -1,5 +1,10 @@
 // We use this code, known as Objects, to control toggling like / unlike status
 
+let testVar = {}
+function testFunc(){
+  return "hi"
+}
+
 let glyphStates = {
   "♡": "♥",
   "♥": "♡"
